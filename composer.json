@@ -37,5 +37,10 @@
   },
   "replace": {
     "oxid-projects/pdf-invoice-module": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "D3\\PdfDocumentsCompat\\": "../../../source/modules/d3/pdfdocuments_compat"
+    }
   }
 }
