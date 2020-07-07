@@ -2,9 +2,9 @@
 
 Kompatibilitätslayer für PDF Dokumente Modul zum OXID InvoicePDF Modul
 
-Diese Anpassung ermöglicht dritten Modulen, die sonst das OXID InvoicePdf-Modul für eigene Zwecke verwenden, anstelle mit dem D3 PDF Dokumente Modul zu verwenden.
+Diese Anpassung ermöglicht dritten Modulen, die sonst das OXID InvoicePdf-Modul für eigene Zwecke verwenden, anstelle das D3 PDF Dokumente Modul zu verwenden.
 
-Den Generierungsaufruf der Standarddokumente (Rechnung, Lieferschein) zur Generierung durchs PDF Dokument Modul geroutet.
+Der Generierungsaufruf der Standarddokumente (Rechnung, Lieferschein) wird über das PDF Dokument Modul geroutet.
 
 Wurden weitere Dokumente hinzugefügt, muss das Routing dorthin ergänzt werden.
 
