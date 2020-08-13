@@ -1,3 +1,5 @@
+> [german version](README.md)
+
 # PDF Documents - compatibility layer
 
 Compatibility Layer for PDF Documents Module to OXID InvoicePDF Module

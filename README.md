@@ -1,3 +1,5 @@
+> [english version](README.en.md)
+
 # PDF-Dokumente - Kompatibilitätsschicht
 
 Kompatibilitätslayer für PDF Dokumente Modul zum OXID InvoicePDF Modul
@@ -37,10 +39,8 @@ Löschen Sie die Dateien des OXID InvoicePDF Moduls.
 - Home: [www.d3data.de](https://www.d3data.de)
 - E-Mail: support@shopmodule.com
 
-## Lizenz / License
+## Lizenz
 
-**de:** Dieses Modul wird unter der GPL v3 Lizenz vertrieben. Für weitere Informationen siehe die ./LICENSE Datei.
- 
-**en:** This module is distributed under the GPL v3 License. For more information see the ./LICENSE file.
+Dieses Modul wird unter der GPL v3 Lizenz vertrieben. Für weitere Informationen siehe die ./LICENSE Datei.
 
 Copyright by D3 Data Development (Inh. Thomas Dartsch)
