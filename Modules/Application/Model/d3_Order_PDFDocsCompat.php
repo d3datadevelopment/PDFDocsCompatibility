@@ -15,7 +15,15 @@ use D3\PdfDocuments\Application\Model\Documents\deliverynotePdf;
 use D3\PdfDocuments\Application\Model\Documents\deliverynotewithoutlogoPdf;
 use D3\PdfDocuments\Application\Model\Documents\invoicePdf;
 use D3\PdfDocuments\Application\Model\Documents\invoicewithoutlogoPdf;
+use OxidEsales\Eshop\Application\Model\Order;
 use OxidEsales\Eshop\Core\Registry;
+
+if (false) {
+    class_alias(
+        d3_Order_PDFDocsCompat_parent::class,
+        Order::class
+    );
+}
 
 class d3_Order_PDFDocsCompat extends d3_Order_PDFDocsCompat_parent
 {

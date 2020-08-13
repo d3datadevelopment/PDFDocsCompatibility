@@ -12,7 +12,7 @@ Das Adminformular zur Dokumentengenerierung wird hierin nicht nachgebaut, da die
 
 ## Systemanforderungen:
 
-- installierter OXID eShop in Version 6
+- installierter OXID eShop ab Version 6.1
 - D3 PDF Dokumente Modul (wird ggf. nachinstalliert)
 - PHP-Version, für die Installationspakete verfügbar sind (PHP 7)
 - Installation via Composer
