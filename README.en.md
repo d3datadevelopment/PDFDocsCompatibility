@@ -17,7 +17,7 @@ The admin form for document generation is not copied here, because it is already
 - PHP version for which installation packages are available (PHP 7)
 - Installation via Composer
 
-## compatibility:
+## Compatibility:
 
 The module contains the same functionality as the `OXID Invoice PDF` module. Since it is intended to replace its function, the OXID module is uninstalled.
 
@@ -26,7 +26,7 @@ The module contains the same functionality as the `OXID Invoice PDF` module. Sin
 Disable the OXID InvoicePDF module in the admin area of your shop.
 
 ```bash
-composer require d3/pdfdocuments_compat --update-no-dev
+composer require d3/pdfdocuments_compat:^1.0 --update-no-dev
 ```
 
 Delete the files of the OXID InvoicePDF module.

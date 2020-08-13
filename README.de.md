@@ -26,7 +26,7 @@ Das Modul enthält die selbe Funktionalität wie das `OXID Invoice-PDF`-Modul. D
 Deaktivieren Sie das OXID InvoicePDF Modul im Adminbereich Ihres Shops.
 
 ```bash
-composer require d3/pdfdocuments_compat --update-no-dev
+composer require d3/pdfdocuments_compat:^1.0 --update-no-dev
 ```
 
 Löschen Sie die Dateien des OXID InvoicePDF Moduls.
